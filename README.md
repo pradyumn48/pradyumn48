@@ -1,3 +1,4 @@
+![logo](https://github.com/pradyumn48/pradyumn48/blob/main/Pradyumn_Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Pradyumn Agrawal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
